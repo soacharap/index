@@ -2,4 +2,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://estampada.businessasesores.com.co/sitemap.xml
+Sitemap: https://soacharap.businessasesores.com.co/sitemap.xml
